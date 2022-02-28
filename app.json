@@ -1,5 +1,5 @@
 {
-    "name": "BROADCAST BOT",
+    "name": "Denver Music Bot",
     "description": "A simple Telegram bot that can broadcast messages and media to the bot subscribers. with mongo DB support.",
     "logo": "",
     "keywords": [
